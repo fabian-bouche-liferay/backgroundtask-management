@@ -1,0 +1,3 @@
+Bundle-Name: staging-publication-management
+Bundle-SymbolicName: com.liferay.samples.fbo.staging.publication
+Bundle-Version: 1.0.0
